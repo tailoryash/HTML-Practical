@@ -71,7 +71,7 @@
       url: "https://rukminim1.flixcart.com/image/200/200/kokdci80/dslr-camera/v/e/x/z-24-200mm-z5-nikon-original-imag2zuekuxgxsgg.jpeg?q=70",
       srcset:
         "https://rukminim1.flixcart.com/image/200/200/kokdci80/dslr-camera/v/e/x/z-24-200mm-z5-nikon-original-imag2zuekuxgxsgg.jpeg?q=70 1024w, https://rukminim1.flixcart.com/image/150/150/kokdci80/dslr-camera/v/e/x/z-24-200mm-z5-nikon-original-imag2zuekuxgxsgg.jpeg?q=70 768w",
-      starting_price: "9999",
+      starting_price: "1",
       brand: "Canon, Sony, Fujifilm...",
     },
     {
@@ -79,31 +79,29 @@
       url: "https://rukminim1.flixcart.com/image/200/200/printer/j/j/y/hp-laserjet-m1005-multifunction-original-imadxhzpeb9qbrfg.jpeg?q=70",
       srcset:
         "https://rukminim1.flixcart.com/image/200/200/printer/j/j/y/hp-laserjet-m1005-multifunction-original-imadxhzpeb9qbrfg.jpeg?q=70 1024w, https://rukminim1.flixcart.com/image/150/150/printer/j/j/y/hp-laserjet-m1005-multifunction-original-imadxhzpeb9qbrfg.jpeg?q=70 768w",
-      starting_price: "3999",
+      starting_price: "1",
       brand: "HP",
     },
     {
-      name: "Best of Shavers",
-      url: "https://rukminim1.flixcart.com/image/200/200/kactpjk0/shaver/m/6/z/philips-s1121-45-s1121-45-original-imafry2qgxcwnm9r.jpeg?q=70",
-      srcset:
-        "https://rukminim1.flixcart.com/image/200/200/kactpjk0/shaver/m/6/z/philips-s1121-45-s1121-45-original-imafry2qgxcwnm9r.jpeg?q=70 1024w, https://rukminim1.flixcart.com/image/150/150/kactpjk0/shaver/m/6/z/philips-s1121-45-s1121-45-original-imafry2qgxcwnm9r.jpeg?q=70 768w",
-      starting_price: "1649",
-      brand: "Philips & Havells",
+      name: "Earbuds",
+      url : "https://rukminim1.flixcart.com/image/612/612/xif0q/headphone/4/z/b/-original-imagmucmeyd5cdpy.jpeg?q=70",
+      srcset : "https://rukminim1.flixcart.com/image/612/612/xif0q/headphone/4/z/b/-original-imagmucmeyd5cdpy.jpeg?q=70",
+      starting_price: "1",
+      brand: "Earbuds",
     },
     {
-      name: "Monitor",
-      url: "https://rukminim1.flixcart.com/image/200/200/kmp7ngw0/monitor/j/z/h/s2721hn-27-py0df-dell-original-imagfjphuywuh2a7.jpeg?q=70",
-      srcset:
-        "https://rukminim1.flixcart.com/image/200/200/kmp7ngw0/monitor/j/z/h/s2721hn-27-py0df-dell-original-imagfjphuywuh2a7.jpeg?q=70 1024w, https://rukminim1.flixcart.com/image/150/150/kmp7ngw0/monitor/j/z/h/s2721hn-27-py0df-dell-original-imagfjphuywuh2a7.jpeg?q=70 768w",
-      starting_price: "8279",
-      brand: "DELL",
+      name: "Earbuds",
+      url : "https://rukminim1.flixcart.com/image/612/612/xif0q/headphone/4/z/b/-original-imagmucmeyd5cdpy.jpeg?q=70",
+      srcset : "https://rukminim1.flixcart.com/image/612/612/xif0q/headphone/4/z/b/-original-imagmucmeyd5cdpy.jpeg?q=70",
+      starting_price: "1",
+      brand: "Earbuds",
     },
     {
       name: "Monitors",
       url: "https://rukminim1.flixcart.com/image/200/200/l5ld8y80/monitor/l/k/s/-original-imagg897ufhyvwqq.jpeg?q=70",
       srcset:
         "https://rukminim1.flixcart.com/image/200/200/l5ld8y80/monitor/l/k/s/-original-imagg897ufhyvwqq.jpeg?q=70 1024w, https://rukminim1.flixcart.com/image/150/150/l5ld8y80/monitor/l/k/s/-original-imagg897ufhyvwqq.jpeg?q=70 768w",
-      starting_price: "9999",
+      starting_price: "1",
       brand: "SAMSUNG",
     },
     {
@@ -111,23 +109,22 @@
       url: "https://rukminim1.flixcart.com/image/200/200/kzhbfrk0/power-bank/h/2/4/power-bank-dx09-20000-mah-20000-dx09-20k-callmate-original-imagbhec5wmkzzca.jpeg?q=70",
       srcset:
         "https://rukminim1.flixcart.com/image/200/200/kzhbfrk0/power-bank/h/2/4/power-bank-dx09-20000-mah-20000-dx09-20k-callmate-original-imagbhec5wmkzzca.jpeg?q=70 1024w, https://rukminim1.flixcart.com/image/150/150/kzhbfrk0/power-bank/h/2/4/power-bank-dx09-20000-mah-20000-dx09-20k-callmate-original-imagbhec5wmkzzca.jpeg?q=70 768w",
-      starting_price: "699",
+      starting_price: "1",
       brand: "Mi, realme & more",
     },
     {
-      name: "Monitors",
-      url: "https://rukminim1.flixcart.com/image/200/200/kk76wsw0/monitor/u/p/k/qg271-um-hq1ss-001-acer-original-imafzhrxqegfbhad.jpeg?q=70",
+      name: "T-shirts",
       srcset:
-        "https://rukminim1.flixcart.com/image/200/200/kk76wsw0/monitor/u/p/k/qg271-um-hq1ss-001-acer-original-imafzhrxqegfbhad.jpeg?q=70 1024w, https://rukminim1.flixcart.com/image/150/150/kk76wsw0/monitor/u/p/k/qg271-um-hq1ss-001-acer-original-imafzhrxqegfbhad.jpeg?q=70 768w",
-      starting_price: "6599",
-      brand: "acer",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/kids-t-shirt/e/y/h/7-8-years-red-boy-white-free-fire-tees-original-imagg6mztgxygght.jpeg?q=70",
+      starting_price: "1",
+      brand: "zara",
     },
     {
       name: "Monitors",
       url: "https://rukminim1.flixcart.com/image/200/200/ko8xtow0/monitor/t/a/y/d24-20-66aekac1in-lenovo-original-imag2qwzazcdmqtb.jpeg?q=70",
       srcset:
         "https://rukminim1.flixcart.com/image/200/200/ko8xtow0/monitor/t/a/y/d24-20-66aekac1in-lenovo-original-imag2qwzazcdmqtb.jpeg?q=70 1024w, https://rukminim1.flixcart.com/image/150/150/ko8xtow0/monitor/t/a/y/d24-20-66aekac1in-lenovo-original-imag2qwzazcdmqtb.jpeg?q=70 768w",
-      starting_price: "7949",
+      starting_price: "1",
       brand: "LENOVO",
     },
   ];
@@ -140,7 +137,7 @@
                 <img class="img-fluid" src="${element.url}" srcset="${element.srcset}" alt="" width="auto" height="200px" sizes="(max-width: 768px) 720px, 1024px">
             </div>
             <p class="product-title mt-md-4 mt-sm-2 mb-0">${element.name}</p>
-            <p class="product-price mt-2 mb-0">From &#x20B9;$${element.starting_price}</p>
+            <p class="product-price mt-2 mb-0">From &#x20B9;${element.starting_price}</p>
             <p class="product-brand mt-2 mb-0">${element.brand}</p>
          </div>
         `;
