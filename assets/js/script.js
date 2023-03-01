@@ -60,7 +60,8 @@
                     <img class = "img-fluid"
                     src = "${element.url}" alt = "Not found" width="64" />
                 </div>
-                <p class = "text-center">${element.name}</p>
+                <p class = "text-center">${element.name}
+                <i class="fa-solid fa-angle-down fa-2xs"></i> </p>
             </div>
         `;
   });
