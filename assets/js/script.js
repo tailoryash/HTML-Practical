@@ -3,7 +3,7 @@
   var categories = [
     {
       name : "Top Offers",
-      url : "/assets/images/asset 9.png",
+      url : "https://rukminim1.flixcart.com/flap/128/128/image/f15c02bfeb02d15d.png?q=100",
     },
     {
       name: "Toys",
